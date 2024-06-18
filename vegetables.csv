@@ -1,0 +1,21 @@
+Food Item,Category,Calories,Protein,Fat,Carbohydrates,Fiber,Vitamin A,Vitamin C,Calcium,Iron
+Carrot,Vegetable,41,0.9g,0.2g,10g,2.8g,16706 IU,5.9mg,33mg,0.3mg
+Broccoli,Vegetable,34,2.8g,0.4g,7g,2.6g,623 IU,89.2mg,47mg,0.73mg
+Spinach,Vegetable,23,2.9g,0.4g,3.6g,2.2g,9377 IU,28.1mg,99mg,2.71mg
+Potato,Vegetable,77,2g,0.1g,17g,2.2g,2 IU,19.7mg,12mg,0.81mg
+Tomato,Vegetable,18,0.9g,0.2g,3.9g,1.2g,833 IU,13.7mg,10mg,0.27mg
+Onion,Vegetable,40,1.1g,0.1g,9g,1.7g,2 IU,7.4mg,23mg,0.21mg
+Cabbage,Vegetable,25,1.3g,0.1g,6g,2.5g,87 IU,36.6mg,40mg,0.47mg
+Cauliflower,Vegetable,25,1.9g,0.3g,5g,2g,0 IU,48.2mg,22mg,0.42mg
+Peas,Vegetable,81,5.4g,0.4g,14g,5.7g,765 IU,40mg,25mg,1.47mg
+Eggplant,Vegetable,25,1g,0.2g,6g,3g,23 IU,2.2mg,9mg,0.23mg
+Okra,Vegetable,33,2g,0.2g,7g,3.2g,375 IU,23mg,81mg,0.62mg
+Bitter Gourd,Vegetable,17,1g,0.2g,3.7g,2.8g,471 IU,84mg,19mg,0.43mg
+Bottle Gourd,Vegetable,14,0.6g,0.1g,3.4g,1.2g,16 IU,10mg,26mg,0.2mg
+Bell Pepper,Vegetable,20,0.9g,0.2g,4.6g,1.7g,157 IU,80.4mg,10mg,0.34mg
+Brussels Sprouts,Vegetable,43,3.4g,0.3g,9g,3.8g,754 IU,85mg,42mg,1.4mg
+Pumpkin,Vegetable,26,1g,0.1g,6.5g,0.5g,8513 IU,9mg,21mg,0.8mg
+Sweet Potato,Vegetable,86,1.6g,0.1g,20g,3g,14187 IU,2.4mg,30mg,0.61mg
+Beetroot,Vegetable,43,1.6g,0.2g,10g,2.8g,33 IU,4.9mg,16mg,0.8mg
+Cucumber,Vegetable,16,0.7g,0.1g,3.6g,0.5g,105 IU,2.8mg,16mg,0.28mg
+Mushroom,Vegetable,22,3.1g,0.3g,3.3g,1g,0 IU,2.1mg,3mg,0.5mg

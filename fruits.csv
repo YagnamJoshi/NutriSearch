@@ -1,0 +1,21 @@
+Food Item,Category,Calories,Protein,Fat,Carbohydrates,Fiber,Vitamin A,Vitamin C,Calcium,Iron
+Apple,Fruit,52,0.3g,0.2g,14g,2.4g,54 IU,4.6mg,6mg,0.12mg
+Banana,Fruit,96,1.3g,0.3g,27g,2.6g,64 IU,8.7mg,5mg,0.26mg
+Orange,Fruit,47,0.9g,0.1g,12g,2.4g,225 IU,53.2mg,40mg,0.1mg
+Strawberry,Fruit,32,0.7g,0.3g,8g,2g,12 IU,58.8mg,16mg,0.4mg
+Mango,Fruit,60,0.8g,0.4g,15g,1.6g,1082 IU,36.4mg,11mg,0.2mg
+Grapes,Fruit,69,0.7g,0.2g,18g,0.9g,66 IU,10.8mg,10mg,0.36mg
+Pineapple,Fruit,50,0.5g,0.1g,13g,1.4g,58 IU,47.8mg,13mg,0.29mg
+Watermelon,Fruit,30,0.6g,0.2g,8g,0.4g,569 IU,8.1mg,7mg,0.24mg
+Papaya,Fruit,43,0.5g,0.3g,11g,1.7g,950 IU,60.9mg,20mg,0.25mg
+Kiwi,Fruit,61,1.1g,0.5g,15g,3g,87 IU,92.7mg,34mg,0.31mg
+Pomegranate,Fruit,83,1.7g,1.2g,19g,4g,0 IU,10.2mg,10mg,0.3mg
+Peach,Fruit,39,0.9g,0.3g,10g,1.5g,489 IU,6.6mg,6mg,0.25mg
+Pear,Fruit,57,0.4g,0.1g,15g,3.1g,25 IU,4.3mg,9mg,0.17mg
+Plum,Fruit,46,0.7g,0.3g,11g,1.4g,345 IU,9.5mg,6mg,0.17mg
+Cherries,Fruit,63,1.1g,0.2g,16g,2.1g,88 IU,7mg,13mg,0.36mg
+Guava,Fruit,68,2.6g,1g,14g,5.4g,1030 IU,228mg,18mg,0.26mg
+Lychee,Fruit,66,0.8g,0.4g,17g,1.3g,0 IU,71.5mg,5mg,0.31mg
+Jackfruit,Fruit,95,1.7g,0.6g,24g,1.5g,297 IU,13.7mg,24mg,0.23mg
+Custard Apple,Fruit,94,2.1g,0.6g,23g,4.4g,20 IU,19.2mg,30mg,0.6mg
+Sapota,Fruit,83,0.4g,1.1g,20g,5.3g,60 IU,14.7mg,21mg,0.8mg

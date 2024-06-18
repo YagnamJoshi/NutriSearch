@@ -1,0 +1,21 @@
+Food Item,Category,Calories,Protein,Fat,Carbohydrates,Fiber,Vitamin A,Vitamin C,Calcium,Iron
+Biscuit,Other,499,7g,22g,67g,3.5g,0 IU,0mg,34mg,3.6mg
+Lassi,Other,150,5g,8g,16g,0g,200 IU,2mg,240mg,0.1mg
+Khichdi,Other,200,6g,4g,35g,4g,150 IU,5mg,40mg,1.5mg
+Kachori,Other,190,4g,10g,22g,2g,45 IU,3.2mg,35mg,1.2mg
+Dosa,Other,168,3.8g,3.7g,30g,1.2g,0 IU,0.3mg,13mg,0.5mg
+Paratha,Other,260,5g,10g,37g,3g,0 IU,0.5mg,20mg,1mg
+Pulao,Other,350,6g,8g,60g,3g,12 IU,2mg,25mg,2mg
+Kebab,Other,350,19g,25g,10g,0.5g,35 IU,0.7mg,60mg,3mg
+Naan,Other,270,9g,8g,44g,2g,0 IU,0.8mg,50mg,2.4mg
+Poha,Other,180,3g,5g,30g,2g,10 IU,0.5mg,15mg,0.8mg
+Chutney,Other,60,1g,3g,8g,1g,0 IU,2mg,10mg,0.5mg
+Papad,Other,100,5g,0.3g,15g,1g,0 IU,1mg,20mg,1mg
+Murukku,Other,450,8g,25g,50g,5g,0 IU,0.4mg,20mg,2.2mg
+Sev,Other,600,10g,40g,45g,4g,0 IU,0mg,40mg,3.5mg
+Halwa,Other,350,5g,20g,40g,1g,50 IU,0.2mg,25mg,1.5mg
+Barfi,Other,400,10g,20g,50g,2g,35 IU,0.1mg,200mg,0.8mg
+Chikki,Other,490,12g,27g,50g,4g,0 IU,0mg,60mg,3mg
+Chivda,Other,400,7g,20g,50g,5g,0 IU,0.3mg,40mg,2.2mg
+Sooji Halwa,Other,360,4g,15g,55g,2g,0 IU,0.1mg,20mg,1mg
+Paneer,Other,265,20g,21g,6g,0g,420 IU,0.7mg,208mg,0.2mg
